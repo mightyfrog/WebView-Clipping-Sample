@@ -1,2 +1,2 @@
 # WebView-Clipping-Sample
-A (useless) WebView clipping sample code :(
+A WebView clipping sample code (OBSOLETE)
